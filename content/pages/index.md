@@ -16,7 +16,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
-      - label: Learn morefsdfds
+      - label: Learn morefsdfdssdfds
         altText: Learn more
         url: /
         showIcon: false
