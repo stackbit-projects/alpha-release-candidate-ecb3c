@@ -184,25 +184,6 @@ sections:
       These are all excellent features that will provide exactly the things
       you’re looking for.
     items:
-      - type: FeaturedItem
-        title: Faster
-        text: >
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          url: /images/faster.svg
-          altText: altText of the image
-          caption: Caption of the image
-          elementId: ''
-          styles:
-            self:
-              opacity: 100
-          type: ImageBlock
-        styles:
-          title:
-            textAlign: center
-          text:
-            textAlign: center
       - elementId: ''
         title: Item Title
         subtitle: ''
@@ -229,6 +210,25 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
+      - type: FeaturedItem
+        title: Faster
+        text: >
+          Learn how top tech companies have learned working remote using our
+          product.
+        featuredImage:
+          url: /images/faster.svg
+          altText: altText of the image
+          caption: Caption of the image
+          elementId: ''
+          styles:
+            self:
+              opacity: 100
+          type: ImageBlock
+        styles:
+          title:
+            textAlign: center
+          text:
+            textAlign: center
       - type: FeaturedItem
         title: Smarter
         text: >
