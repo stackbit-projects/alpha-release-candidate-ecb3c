@@ -24,7 +24,7 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
-      - label: Learn more
+      - label: Learn morelkjklgfj
         altText: Learn more
         url: /
         showIcon: false
