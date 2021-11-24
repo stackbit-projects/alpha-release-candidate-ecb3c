@@ -20,7 +20,7 @@ sections:
         elementId: ''
         type: Link
       - type: Button
-        label: Sign upfsdfdsf
+        label: Sign upfsdfdsfsdfdsf
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
