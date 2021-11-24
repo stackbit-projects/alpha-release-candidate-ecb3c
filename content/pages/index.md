@@ -24,6 +24,14 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     media:
       type: ImageBlock
       url: /images/1_9BBx6upFv1m5KQLMrt0H_w.png
