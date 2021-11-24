@@ -11,7 +11,7 @@ sections:
       employment.  Figure out your benefits, practice for interviews, get
       mentored, help peers, get helped in return.
     actions:
-      - label: kjksdkjfsdlkj
+      - label: Learn more
         altText: Learn more
         url: /
         showIcon: false
