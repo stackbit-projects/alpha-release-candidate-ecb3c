@@ -294,7 +294,7 @@ sections:
             textAlign: left
           actions:
             justifyContent: flex-start
-    columns: 3
+    columns: 4
     styles:
       self:
         height: auto
