@@ -321,6 +321,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+    actions:
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
   - elementId: ''
     colors: colors-a
     title: 'A great feature, we’re proud of'
