@@ -104,7 +104,6 @@ sections:
       type: ImageBlock
       url: /images/hero-3.jpg
       altText: Hero image
-    backgroundImage: {}
     styles:
       self:
         height: auto
