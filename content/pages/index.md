@@ -125,7 +125,6 @@ sections:
     media:
       type: ImageBlock
       altText: Hero image
-    backgroundImage: {}
     styles:
       self:
         height: auto
