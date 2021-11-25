@@ -260,7 +260,6 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
       altText: Hero image
     backgroundImage: {}
     styles:
