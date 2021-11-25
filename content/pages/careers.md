@@ -38,8 +38,8 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    quote: >-
-      ## Being part of this team has been incredible. We’ve fill each other’s
+    quote: >
+      ## dsfBeing part of this team has been incredible. We’ve fill each other’s
       gaps, and we go to lunch together :)
     name: Carla Rogers
     title: Someone from the team
