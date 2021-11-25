@@ -84,6 +84,7 @@ sections:
       actions:
         justifyContent: center
     type: FeaturedPostsSection
+    showAuthor: true
   - elementId: ''
     colors: colors-h
     title: Love where you work
