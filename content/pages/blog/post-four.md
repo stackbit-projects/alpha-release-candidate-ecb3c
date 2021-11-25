@@ -22,6 +22,14 @@ bottomSections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: primary
+      - label: Learn more
+        altText: Learn more
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+        type: Link
     styles:
       self:
         height: auto
