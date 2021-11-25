@@ -22,7 +22,7 @@ bottomSections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: primary
-      - label: Learn more
+      - label: Learn no
         altText: Learn more
         url: /
         showIcon: false
